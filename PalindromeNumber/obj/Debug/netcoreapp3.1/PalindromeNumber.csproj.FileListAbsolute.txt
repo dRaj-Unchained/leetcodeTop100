@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csprojAssemblyReference.cache

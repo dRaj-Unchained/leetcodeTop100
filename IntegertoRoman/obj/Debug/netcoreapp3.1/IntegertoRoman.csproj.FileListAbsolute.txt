@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\bin\Debug\netcoreapp3.1\IntegertoRoman.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\IntegertoRoman\obj\Debug\netcoreapp3.1\IntegertoRoman.genruntimeconfig.cache

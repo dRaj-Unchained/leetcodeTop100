@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\bin\Debug\netcoreapp3.1\StringToInteger.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\StringToInteger\obj\Debug\netcoreapp3.1\StringToInteger.genruntimeconfig.cache

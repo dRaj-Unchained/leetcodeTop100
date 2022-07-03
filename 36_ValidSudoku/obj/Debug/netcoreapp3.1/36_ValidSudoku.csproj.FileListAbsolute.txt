@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\bin\Debug\netcoreapp3.1\36_ValidSudoku.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.genruntimeconfig.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\36_ValidSudoku\obj\Debug\netcoreapp3.1\36_ValidSudoku.csprojAssemblyReference.cache

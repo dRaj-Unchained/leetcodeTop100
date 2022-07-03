@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\bin\Debug\netcoreapp3.1\phoneNumber.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\phoneNumber\obj\Debug\netcoreapp3.1\phoneNumber.genruntimeconfig.cache

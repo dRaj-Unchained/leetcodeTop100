@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\bin\Debug\netcoreapp3.1\ZigzagConversion.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ZigzagConversion\obj\Debug\netcoreapp3.1\ZigzagConversion.genruntimeconfig.cache

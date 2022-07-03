@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\bin\Debug\netcoreapp3.1\SwapNodesPairs.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\SwapNodesPairs\obj\Debug\netcoreapp3.1\SwapNodesPairs.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\bin\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\25_ReverseNodesinkGroup\obj\Debug\netcoreapp3.1\25_ReverseNodesinkGroup.genruntimeconfig.cache

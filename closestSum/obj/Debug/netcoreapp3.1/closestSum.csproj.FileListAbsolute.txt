@@ -1,0 +1,12 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\bin\Debug\netcoreapp3.1\closestSum.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\closestSum\obj\Debug\netcoreapp3.1\closestSum.genruntimeconfig.cache

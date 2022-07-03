@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\bin\Debug\netcoreapp3.1\NthNodeList.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\NthNodeList\obj\Debug\netcoreapp3.1\NthNodeList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csprojAssemblyReference.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.genruntimeconfig.cache

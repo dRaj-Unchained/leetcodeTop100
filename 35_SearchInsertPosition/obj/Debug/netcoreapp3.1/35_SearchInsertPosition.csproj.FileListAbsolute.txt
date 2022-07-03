@@ -1,0 +1,13 @@
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.exe
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.deps.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.runtimeconfig.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.runtimeconfig.dev.json
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\bin\Debug\netcoreapp3.1\35_SearchInsertPosition.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.AssemblyInfoInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.AssemblyInfo.cs
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.csproj.CoreCompileInputs.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.dll
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.pdb
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.genruntimeconfig.cache
+C:\Users\rajkumaryadav\source\repos\ConsoleApp1\35_SearchInsertPosition\obj\Debug\netcoreapp3.1\35_SearchInsertPosition.csprojAssemblyReference.cache
